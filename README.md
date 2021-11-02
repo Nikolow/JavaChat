@@ -1,5 +1,5 @@
 # Description
-This is a simple Chat Server-Client without any GUI. Users must be at the same network - they are connecting based by ports.
+This is a simple Chat Server-Client without any GUI.
 
 <center>
 
