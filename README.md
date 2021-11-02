@@ -17,13 +17,15 @@ This is a simple Chat Server-Client without any GUI. Users must be at the same n
 
 * Server
 > Using: ServerSocket
- Functions: Login, Register, Last Messages, Help Text, Commands
+
+> Functions: Login, Register, Last Messages, Help Text, Commands
  
 <br>
 
 * Client
 > Using: ServerSocket
- Functions: Send Message / Command, Read Message
+
+> Functions: Send Message / Command, Read Message
 
 <center>
 
