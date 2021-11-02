@@ -9,16 +9,16 @@ This is a simple Chat Server-Client without any GUI. Users must be at the same n
 
 # Functionality
 * DB Connection
->> Using: JDBC Driver
->> Init function: Create tables if they do not exist
+> Using: JDBC Driver
+> Init function: Create tables if they do not exist
 <br>
 * Server
->> Using: ServerSocket
->> Functions: Login, Register, Last Messages, Help Text, Commands
+> Using: ServerSocket
+> Functions: Login, Register, Last Messages, Help Text, Commands
 <br>
 * Client
->> Using: ServerSocket
->> Functions: Send Message / Command, Read Message
+> Using: ServerSocket
+> Functions: Send Message / Command, Read Message
 
 <center>
 
