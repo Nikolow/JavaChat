@@ -10,6 +10,7 @@ This is a simple Chat Server-Client without any GUI. Users must be at the same n
 # Functionality
 * DB Connection
 > Using: JDBC Driver
+
 > Init function: Create tables if they do not exist
 
 <br>
