@@ -9,14 +9,16 @@ This is a simple Chat Server-Client without any GUI. Users must be at the same n
 
 # Functionality
 * DB Connection
-- Using: JDBC Driver
-- Init function: Create tables if they do not exist
+>> Using: JDBC Driver
+>> Init function: Create tables if they do not exist
+<br>
 * Server
-- Using: ServerSocket
-- Functions: Login, Register, Last Messages, Help Text, Commands
+>> Using: ServerSocket
+>> Functions: Login, Register, Last Messages, Help Text, Commands
+<br>
 * Client
-- Using: ServerSocket
-- Functions: Send Message / Command, Read Message
+>> Using: ServerSocket
+>> Functions: Send Message / Command, Read Message
 
 <center>
 
@@ -34,9 +36,28 @@ This is a simple Chat Server-Client without any GUI. Users must be at the same n
 
 </center>
 
+# Function: Logout
+- Validation
+- Simple command
+
+<center>
+
+![Image](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c3ead2d-a453-4c41-ac54-2823b27dd966/hr-ross-cooper-2.png)
+
+</center>
+
 # Function: Last Messages
 - Simple query with limit
 - Print the messages in DESC
+
+<center>
+
+![Image](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6c3ead2d-a453-4c41-ac54-2823b27dd966/hr-ross-cooper-2.png)
+
+</center>
+
+# Function: List
+- Show online users logged in
 
 
 <center>
